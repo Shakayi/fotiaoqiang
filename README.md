@@ -7,5 +7,5 @@
 - IOS 敬请期待
 ## 官方网站
 - https://fotiaoqiang.io
-## <a href="#">FAQ</a>
+## <a href="https://github.com/getfotiaoqiang/fotiaoqiang/wiki/FAQ">FAQ</a>
 
